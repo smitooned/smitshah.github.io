@@ -1,0 +1,20 @@
+body{
+    background-color: #FFE0A3;
+}
+
+.container{
+    background-color: #F7EDD0;
+    border-radius: 4%;
+}
+
+.sliderDiv{
+  padding: 0px 0px;
+}
+
+.descriptionDiv{
+  margin: 0.3rem;
+}
+
+.btn:focus{
+    box-shadow:none !important;
+}

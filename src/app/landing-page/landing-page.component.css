@@ -1,0 +1,116 @@
+body{
+  font-family: 'Inter', sans-serif;
+}
+
+.container{
+  padding: 0%;
+}
+
+.btn:focus{
+    box-shadow:none !important;
+}
+
+.leftSide button:hover{
+border-bottom: 1px solid black;
+transition-duration: 0.5s;
+}
+
+.upper{
+  background-color: #FFF7E1;
+  padding: 1rem;
+}
+
+#logo{
+  width: 30%;
+  height: auto;
+}
+
+.leftSide{
+  background-color: #FFF7E1;
+}
+
+button{
+  padding: 4px;
+}
+
+.switchBtn{
+  padding: 0.3rem;
+  padding-left: 0%;
+  margin-left: -5px;
+}
+
+.rightSide{
+  background-color: #FFF7E1;
+  overflow: hidden;
+}
+
+.tagLineLanding{
+  margin-bottom: 1rem;
+}
+
+#tiltedImg{
+    height: auto;
+    width: 120%;
+}
+
+.orderNowLandingDiv{
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+#orderNowLanding{
+  background-color: #FCE5B5;
+  padding: 0.6rem 1rem;;
+  border-radius: 22px;
+}
+
+.OR{
+  text-align: center;
+  padding-top: 5px;
+}
+
+.otherButtons{
+  text-align: center;
+  padding: 1rem;
+}
+
+#getMangoesBtn{
+  width: 90%;
+  border: 1px #CCC8BC solid;
+  padding: 7px 12px;
+  border-radius: 4px;
+}
+
+#bulkOrderBtn{
+  width: 90%;
+  border: 1px #CCC8BC solid;
+  padding: 7px 12px;
+  border-radius: 4px;
+}
+
+.devgadMangoesDescription{
+  padding: 5%;
+}
+
+.devgadMangoesFeatures{
+  text-align: center;
+  padding: 3%;
+}
+
+#devgadMangoesFeaturesA{
+  width: 40%;
+  height: auto;
+  padding: 3%;
+}
+
+#devgadMangoesFeaturesB{
+  width: 40%;
+  height: auto;
+  padding: 3%;
+}
+
+#devgadMangoesFeaturesC{
+  width: 40%;
+  height: auto;
+  padding: 3%;
+}
